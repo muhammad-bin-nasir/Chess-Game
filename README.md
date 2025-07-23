@@ -26,3 +26,8 @@ The AI opponent uses a depth-limited Minimax algorithm with Alpha-Beta pruning (
 3. Install dependencies:
    ```bash
    pip install pygame python-chess
+4. Double click the Start.bat file to play the game.
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
